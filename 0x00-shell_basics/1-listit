@@ -1,2 +1,2 @@
-#!/bin/bash 
-ls; echo $'\n'
+#!/bin/bash
+ls
